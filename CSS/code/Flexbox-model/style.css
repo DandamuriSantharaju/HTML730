@@ -1,0 +1,60 @@
+.raju{
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+      justify-content:space-between; 
+     /* align-content:space-around;               
+     align-items:end; 
+     gap: px; */
+     justify-self:center;
+    /* flex-wrap:wrap; */
+} 
+.san{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 32px;
+    color: red;
+    border: 1px solid black;
+    margin: 1px;
+}
+.raju1{
+    width: 250px;;
+     align-self:start;
+     /* flex-grow:1; */
+     /* flex-basis: 1vh9; */
+     flex-shrink: 0;
+}
+
+
+
+
+
+
+/* height: 500px;
+    width: 500px;
+    border: 1px solid red;
+ display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: space-around;
+    align-items: center; 
+    flex-wrap: wrap; 
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items:end; 
+
+     flex-wrap: nowrap; */
+
+
+
+
+
+
+
+
+
+
